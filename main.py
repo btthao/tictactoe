@@ -62,20 +62,3 @@ if __name__ == '__main__':
 
 
 
-# if __name__ == '__main__':
-#     x_wins = 0
-#     o_wins = 0
-#     ties = 0
-#     for _ in range(1000):
-#         x_player = SmartBot('x')
-#         o_player = DumbBot('o')
-#         t = TicTacToe()
-#         result = play(t, x_player, o_player, print_game=False)
-#         print(result)
-#         if result == 'x':
-#             x_wins += 1
-#         elif result == 'o':
-#             o_wins += 1
-#         else:
-#             ties += 1
-#     print (f'x wins: {x_wins}, o wins: {o_wins}, tie: {ties}')
