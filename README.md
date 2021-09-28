@@ -1,6 +1,8 @@
 # TIC TAC TOE (with GUI)
 
-### Play with your friend, with a dumb bot or a smart one (with minimax algorithm)
+### 3 game modes: Play with your friend, with a dumb bot or a smart one (with minimax algorithm)
+
+![img](./image.png)
 
 Run GUI.py to play the GUI version. <br />
 Run main.py to play the command-line version.
